@@ -8,7 +8,7 @@ set angles degrees
 set xrange [-1:1]
 set yrange [-1:1]
 set size square
-set obj 1 circle at 0,0 size 1 front arc [0:14.1177] 
+set obj 1 circle at 0,0 size 1 front arc [0:14.1177] fc rgb "black" 
 set obj 2 circle at 0,0 size 1 front arc [14.1177:131.765] fc rgb "blue"
 set obj 3 circle at 0,0 size 1 front arc [131.765:284.706] fc rgb "gold"
 set obj 4 circle at 0,0 size 1 front arc [284.706:360] fc rgb "green"
